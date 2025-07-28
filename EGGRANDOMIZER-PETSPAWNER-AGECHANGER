@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/DicgUMiq/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/limithub19/Imjustyesting/refs/heads/main/Oi"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/SoVKXUK4kdOyub2c/raw", true))()
